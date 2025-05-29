@@ -1,5 +1,5 @@
-#${color{red} Sales\ Analysis\using\Mysql}$
-# sales analysis using mysql.
+# ${\color{blue} Sales\ Analysis\ using\ Mysql}$
+
 
 
 # 🔍 Objective
